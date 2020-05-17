@@ -1,1 +1,1 @@
-# QuantumCovidImagingToolkit
+# Quantum Covid Imaging Toolkit
