@@ -7,8 +7,8 @@ Dataset - Due to large file size, we could only upload some samples to the gitre
 
 Codebase: Some code files will be updated soon. The working code is commited to the branch using QNN.
 
-Epoch&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	    Loss&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	    Val Loss&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	    Hinge Accuracy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	    Val Hinge Accuracy<br>
- 1/10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    0.6566&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   	  0.387&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	        0.7534&nbsp;	            0.816<br>
+Epoch&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	    Loss&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	    Val Loss&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	    Hinge Accuracy&nbsp;&nbsp;	    Val Hinge Accuracy<br>
+ 1/10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    0.6566&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   	  0.387&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	        0.7534&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	            0.816<br>
  2/10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	    0.3568&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	    0.3348&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	      0.8263&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	            0.8311<br>
  3/10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	  0.3281&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    0.3269&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	      0.8497&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	            0.8579<br>
  4/10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	    0.2994&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    0.289467&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	    0.9061&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	            0.8769<br>
