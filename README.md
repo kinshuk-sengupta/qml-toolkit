@@ -113,6 +113,14 @@ Codebase: Some code files will be updated soon. The working code is commited to 
 
 
 Training Samples: 9580
-Testing Sampples: 1192
+Testing Samples: 1500
+
+
+	Actual Values
+Predicted Values		Positive	Negative
+	Positive	874	26
+	Negative	20	580
+	Total Evaluation Sample
+1500
 
 Training Time: 52 min avg on multiple instances. 
