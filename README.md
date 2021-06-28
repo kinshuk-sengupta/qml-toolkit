@@ -111,8 +111,8 @@ Codebase: Some code files will be updated soon. The working code is commited to 
  <!--[endif]-->
 </tbody></table>
 
-The score interpretation depends on two key factor 
-   a) The percentage of male or female gendered definition words,
+The score interpretation depends on two key factor <br>
+   a) The percentage of male or female gendered definition words,<br>
    b) Average bias condition absolute score(Genbit Score)
 
 
