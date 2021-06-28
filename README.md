@@ -111,9 +111,6 @@ Codebase: Some code files will be updated soon. The working code is commited to 
  <!--[endif]-->
 </tbody></table>
 
-The score interpretation depends on two key factor, <br>
-&nbsp;&nbsp;&nbsp;&nbsp;a) The percentage of male or female gendered definition words<br>
-&nbsp;&nbsp;&nbsp;&nbsp;b) Average bias condition absolute score(Genbit Score)
 
 
 Training Samples: 9580
