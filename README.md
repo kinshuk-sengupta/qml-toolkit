@@ -10,16 +10,14 @@ Codebase: Some code files will be updated soon. The working code is commited to 
  collapse;table-layout:fixed;width:841pt">
  
  <tr height="19" style="height:14.25pt">
- 
   <td>Epoch</td>
   <td>Loss</td>
   <td>Val Loss</td>
   <td>Hinge Accuracy</td>
   <td colspan="2" style="mso-ignore:colspan">Val Hinge Accuracy</td>
-  <td></td>
+
  </tr>
  <tr height="19" style="height:14.25pt">
-  
   
   <td align="right">0.6566</td>
   <td align="right">0.387</td>
@@ -36,8 +34,7 @@ Codebase: Some code files will be updated soon. The working code is commited to 
   
  </tr>
  <tr height="19" style="height:14.25pt">
-  
-  
+ 
   <td align="right">0.3281</td>
   <td align="right">0.3269</td>
   <td align="right">0.8497</td>
@@ -45,7 +42,6 @@ Codebase: Some code files will be updated soon. The working code is commited to 
   
  </tr>
  <tr height="19" style="height:14.25pt">
-
   <td><span style="mso-spacerun:yes">&nbsp;</span>4/10</td>
   <td align="right">0.2994</td>
   <td align="right">0.289467</td>
@@ -77,7 +73,6 @@ Codebase: Some code files will be updated soon. The working code is commited to 
   <td align="right">0.199317</td>
   <td align="right">0.95865</td>
   <td align="right">0.93975</td>
-td>
  </tr>
  <tr height="19" style="height:14.25pt">
 
